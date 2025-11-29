@@ -1,0 +1,33 @@
+# Streamlit (Frontend)
+streamlit==1.43.2
+requests==2.32.3
+
+# FastAPI (Backend)
+fastapi==0.115.11
+uvicorn==0.34.0
+pydantic==2.10.6
+starlette==0.46.1
+
+# AI & NLP
+openai==1.66.3
+langchain==0.3.20
+transformers==4.49.0
+sentence-transformers==3.4.1
+
+# File Handling & PDF Processing
+pdfplumber==0.11.5
+python-docx==1.1.2
+PyPDF2==3.0.1
+
+# Environment Variables (Needed ONLY for Backend)
+python-dotenv==1.0.1  
+
+# Utilities
+jsonschema==4.23.0
+cryptography==44.0.2
+
+# Database (Optional, if needed)
+SQLAlchemy==2.0.39  
+
+
+python-multipart
