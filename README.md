@@ -1,4 +1,4 @@
-# intelligent-doc-analyzer
+# AI Based Resume & Job Matcher
 1. Clone the Repository  
 2. Install Dependencies (`pip install -r requirements.txt`)  
 3. Add API Key in `.env` file  
